@@ -1,0 +1,17 @@
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  .container {
+    width: 40%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+    background: purple;
+  }
+  header {
+    text-align: centre;
+    padding: 20px 20px;
+    border-bottom: 5px solid #cccccc;}
